@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "317213860625",
+    "project_id": "casitaenllamas-2b337",
+    "storage_bucket": "casitaenllamas-2b337.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317213860625:android:f73861580dbf440eb2e2b0",
+        "android_client_info": {
+          "package_name": "com.example.casita_en_llamas_ev3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChajHnlmqXMlNWTzA99x-hve82Xg-Knlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
